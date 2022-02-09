@@ -9,9 +9,9 @@
     <ul>
         <li><a href ="${pageContext.request.contextPath}">Home</a></li>
         <li><a href="${pageContext.request.contextPath}/hello">QuickServlet</a></li>
-        <li><a href="${pageContext.request.contextPath}/about.jsp">About</a> </li>
+        <li><a href="${pageContext.request.contextPath}about.jsp">About</a> </li>
     </ul>
 </nav>
-<h1>Pagina principal</h1>
+<h1>Pagina About</h1>
 </body>
 </html>
